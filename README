@@ -1,0 +1,20 @@
+OVERVIEW
+
+The EasyDateTime.pm module aims to provide a easy but enough datetime
+object implementation. It handles many date and time calculations.And it
+also support timezone.
+
+All of these feature is in a easy way.
+
+
+INSTALLATION
+
+To install this module type the following in the distribution
+directory:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+or simply copy EasyDateTime.pm to your lib path

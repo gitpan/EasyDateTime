@@ -1,0 +1,15 @@
+README
+LICENSE
+CHANGES
+EasyDateTime.pm
+t/00load.t
+t/01new.t
+t/02clone_lock.t
+t/03get.t
+t/04set.t
+t/05static.t
+t/06other.t
+t/07str.t
+t/08overload.t
+MANIFEST
+Makefile.PL
